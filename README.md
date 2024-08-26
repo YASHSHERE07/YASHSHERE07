@@ -1,7 +1,13 @@
 # 💫 About Me:
 I'm a passionate frontend developer with experience in building responsive and efficient web applications using React.js, Tailwind CSS, and Firebase. I thrive on creating seamless user interfaces and am always eager to learn new technologies to enhance my skills. With a strong foundation in UI/UX design and real-time data synchronization, I'm focused on delivering impactful solutions that drive user engagement and satisfaction.<br><br><br><br><br><br><br>
 
+🔭 I’m currently working on [Building responsive web applications using React.js and Tailwind CSS, and enhancing the UI/UX of various projects.](reactbits-dusky.vercel.app)
 
+- 🌱 I’m currently learning **Advanced UI/UX design, real-time data synchronization, and scalable architecture.**
+
+- 🤝 I’m looking for help with **Collaborating on open-source projects and innovative web apps that need strong frontend expertise.**
+
+- 📫 How to reach me **yashshere26@gmail.com**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-shere-963b64230) 
 
